@@ -10,6 +10,7 @@ This **C# Login System** is designed to provide a secure and user-friendly authe
    - A clean and intuitive user login form.
    - Input fields for **Username** and **Password** with built-in validation.
    - Error handling to alert users of invalid credentials or missing inputs.
+
 ![Project Logo](images/login.png)
 
 
@@ -17,13 +18,15 @@ This **C# Login System** is designed to provide a secure and user-friendly authe
    - Accessible after successful login.
    - This form collects or displays additional user-specific information.
    - Can be customized to suit different application requirements, such as profile setup, preferences, or further data entry.
+   
 ![Project Logo](images/additional.png)
 
 
 3. **Two Sub-Forms:**
    - **Sub-Form 1:** Designed for secondary tasks post-login, such as dashboard access or specific module interaction.
    - **Sub-Form 2:** Another customizable form that can handle additional user tasks or provide access to different sections of the application.
-   ![Project Logo](images/sub.png)
+
+![Project Logo](images/sub.png)
 
 
 ## How to Run This Project in Visual Studio Code
