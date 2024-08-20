@@ -24,7 +24,7 @@ This **C# Login System** is designed to provide a secure and user-friendly authe
 
 To run this project, follow these steps:
 
-![Alt text](login-page\assest\login.png)
+![Project Logo](images/login.png)
 
 
 1. **Clone the Repository:**
