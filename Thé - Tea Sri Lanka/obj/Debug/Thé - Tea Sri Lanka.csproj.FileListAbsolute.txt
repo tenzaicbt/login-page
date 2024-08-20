@@ -1,0 +1,30 @@
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.exe.config
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.exe
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.pdb
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.AssemblyReference.cache
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form1.resources
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Properties.Resources.resources
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.GenerateResource.cache
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.CoreCompileInputs.cache
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.exe
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.pdb
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form2.resources
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form3.resources
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form4.resources
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Database.mdf
+C:\Users\tenza\source\repos\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Database_log.ldf
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Database.mdf
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Database_log.ldf
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.exe.config
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.exe
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\bin\Debug\Thé - Tea Sri Lanka.pdb
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.AssemblyReference.cache
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form1.resources
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form2.resources
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form3.resources
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Form4.resources
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé___Tea_Sri_Lanka.Properties.Resources.resources
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.GenerateResource.cache
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.csproj.CoreCompileInputs.cache
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.exe
+C:\Users\TENZATEST\Desktop\Item\New folder\Thé - Tea Sri Lanka\Thé - Tea Sri Lanka\obj\Debug\Thé - Tea Sri Lanka.pdb
